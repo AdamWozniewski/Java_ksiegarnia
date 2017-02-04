@@ -24,4 +24,7 @@ public class Uzytkownik {
     public double getHajs(){
         return this.wallet;
     }
+    public String getName(){
+        return this.name;
+    }
 }
